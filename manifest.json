@@ -1,0 +1,25 @@
+{
+  "name": "Berzite Run",
+  "short_name":"Berzite",
+  "description":"aplicacion para correr",
+  "icons": [
+    { "src": "icon.png",
+      "sizes": "192x912",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    { "src": "icon.png",
+      "sizes": "256x256",
+      "type": "image/png"},
+    { "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"},
+    { "src": "icon.png",
+      "sizes": "640x640",
+      "type": "image/png"}
+  ],
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "background_color": "#262c38",
+  "theme_color": "#262c38"
+}
