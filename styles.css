@@ -500,3 +500,134 @@ section {
 .wallet-main {
   margin-bottom: 70px;
 }
+
+.hola-b {
+  align-items: center;
+}
+
+.flecha-ap{
+
+  top: 30px;
+}
+
+.settings-main {
+  width: 90vw;
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.yolisimo {
+  width: 90vw;
+  margin-bottom: 20px;
+}
+
+.sett-title {
+  font-size: 17px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #f0f8fc6e;
+  padding-bottom: 5px;
+}
+
+.setting-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+
+
+.setttt {
+  font-size: 17px;
+}
+
+.log-out-s {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.log-out-s h6 {
+  border: 0;
+  font-size: 23px;
+  margin-top: 8px;
+  margin-right: 20px;
+}
+
+.log-out-s span {
+  font-size: 23px;
+}
+
+.log-out-s {
+  border-top: 1px solid #f0f8fc6e;
+}
+
+.nft-card-info {
+  background: #3a404c;
+  border: 1px solid #f0f8fc6e;
+  position: fixed;
+  top: 20%;
+  left: 25%;
+  z-index: 100;
+  margin-right: 40px;
+  width: 50%;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nft-card-info img {
+  width: 120px;
+  left: 50%;
+  border-radius: 1px;
+}
+
+.abut {
+  border: none;
+}
+
+.wadwa {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.nft-card-info {
+  display: none;
+}
+
+.nft-card-info.toggle {
+  display: flex;
+}
+
+.nft-card-info.dess {
+  display: none !important;
+}
+
+.close {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: #fb4349;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.close {
+  display: none !important;
+}
+
+.close.act {
+  display: flex !important;
+}
+
+.close.dissa{
+  display: none !important;
+}
